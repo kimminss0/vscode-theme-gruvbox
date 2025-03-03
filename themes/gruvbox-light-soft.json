@@ -1024,6 +1024,8 @@
     "titleBar.activeForeground": "#3c3836",
     "titleBar.inactiveBackground": "#f2e5bc",
     // GIT COLORS
+    "scmGraph.historyItemHoverLabelForeground": "#ffffff",
+    "scmGraph.historyItemHoverDefaultLabelForeground": "#ffffff",
     "gitDecoration.modifiedResourceForeground": "#d79921",
     "gitDecoration.deletedResourceForeground": "#cc241d",
     "gitDecoration.untrackedResourceForeground": "#98971a",
